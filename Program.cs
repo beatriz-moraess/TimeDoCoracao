@@ -23,3 +23,5 @@ Console.Write ("o");
 Console.BackgroundColor = ConsoleColor.Black;
 Console.ForegroundColor = ConsoleColor.White;
 Console.Write ("s");
+
+Console.ResetColor();
